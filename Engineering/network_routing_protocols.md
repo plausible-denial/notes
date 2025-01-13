@@ -2,6 +2,20 @@
 
 **Exploring Modern Routing Protocols and Monitoring Tools in the Digital Age**
 
+- [bgp.tools](https://bgp.tools/)
+- [peeringdb](https://www.peeringdb.com)
+- [stat.ripe.net](https://stat.ripe.net/app/)
+
+- Routing Information Protocol (RIP)
+- Interior Gateway Protocol (IGRP)
+- Open Shortest Path First (OSPF)
+- Exterior Gateway Protocol (EGP)
+- Enhanced Interior Gateway Routing Protocol (EIGRP)
+- Border Gateway Protocol (BGP)
+- Intermediate System-to-Intermediate System (IS-IS)
+
+---
+
 In today’s digitally connected world, routing protocols play a pivotal role in ensuring that data finds its way efficiently across networks. These protocols are essential for learning available routes, constructing routing tables, and making informed routing decisions—which are critical for maintaining the robust connectivity we have come to rely on.
 
 Some of the most prominent modern routing protocols include the Routing Information Protocol (RIP), the Interior Gateway Protocol (IGRP), and the Open Shortest Path First (OSPF). Each of these protocols serves unique roles within enterprise and exterior networks. The Exterior Gateway Protocol (EGP) and its advanced counterpart, the Border Gateway Protocol (BGP), are particularly noteworthy for their use in large-scale internet routing, supporting the vast web of global connections.

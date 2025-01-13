@@ -2,6 +2,8 @@
 
 **Linux Hardening: Implementing ANSSI Security Recommendations for RHEL 7 and 8**
 
+[Implementing ANSSI security recommendations for RHEL 7 and 8](https://www.redhat.com/en/blog/implementing-anssi-security-recommendations-rhel-7-and-8)
+
 In today’s digital age, ensuring the security of operating systems is paramount for protecting sensitive data and maintaining the integrity of IT infrastructure. For organizations that rely on Red Hat Enterprise Linux (RHEL), the implementation of robust security measures is crucial. The Agence Nationale de la Sécurité des Systèmes d’Information (ANSSI), France’s national cybersecurity agency, has provided a comprehensive set of security recommendations to harden Linux systems, specifically tailored for RHEL versions 7 and 8.
 
 The Red Hat blog provides valuable insights into integrating these ANSSI guidelines, which focus on enhancing system resilience against potential vulnerabilities. These recommendations are not just limited to system configurations but also extend to user management, network security, and compliance with regulatory standards, making it easier for enterprises to align their operations with global security practices.

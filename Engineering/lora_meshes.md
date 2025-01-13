@@ -2,6 +2,10 @@
 
 **Exploring the World of LoRa Meshes: Connecting Devices Seamlessly**
 
+- [https://www.ebay.co.uk/sch/i.html?_from=R40&_nkw=ESP32&_sacat=0&_odkw=laptops&_osacat=0](https://www.ebay.co.uk/sch/i.html?_from=R40&_nkw=ESP32&_sacat=0&_odkw=laptops&_osacat=0)
+- [https://meshtastic.org/docs/developers](https://meshtastic.org/docs/developers)
+- [https://docs.aws.amazon.com/iot/latest/developerguide/connect-iot-lorawan.html](https://docs.aws.amazon.com/iot/latest/developerguide/connect-iot-lorawan.html)
+
 The world of technology is perpetually evolving, with new innovations aiming to make our lives easier and our connections stronger. One such innovation that's making waves in the IoT (Internet of Things) community is LoRa mesh technology, which offers promising solutions for enhancing device connectivity, even in the most challenging environments.
 
 LoRa, short for Long Range, is a wireless communication technology that enables devices to communicate over long distances while consuming minimal power. This makes it an ideal choice for IoT applications, where maintaining long battery life is crucial. When combined with mesh networking, LoRa becomes even more powerful, allowing devices to connect to one another directly without needing a central hub, thereby extending the network's coverage and reliability.

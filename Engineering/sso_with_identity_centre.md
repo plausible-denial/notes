@@ -2,6 +2,11 @@
 
 ### Streamlined Access: Embracing SSO With AWS Identity Center
 
+- [AWS | single sign on | configure profile token](https://docs.aws.amazon.com/cli/latest/userguide/sso-configure-profile-token.html)
+- [AWS | single sign on](https://docs.aws.amazon.com/singlesignon/latest/userguide/useraccess.html#assignusers)
+- [AWS | single sign on | getting started](https://docs.aws.amazon.com/singlesignon/latest/userguide/getting-started.html)
+
+
 As technology progresses, so too do the methods we use to access and manage our digital environments. Gone are the days of relying solely on AWS Cognito. Today, AWS Identity Center offers a more sophisticated and integrated approach to managing single sign-on (SSO) access, even for something as sensitive as AWS's Command Line Interface (CLI) operations.
 
 For those of us aiming to streamline our AWS access via the CLI, the journey involves leveraging a set of comprehensive guidelines that AWS provides. These not only cover the configuration of profile tokens for seamless single sign-on access but also walk you through assigning user permissions and getting started with SSO, as outlined in AWS's extensive user guides.
