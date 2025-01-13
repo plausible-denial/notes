@@ -1,6 +1,4 @@
----
-title: Ansible
----
+
 
 I'm trying to determine my favourite first touch and hardening setup for windows and debian.
 

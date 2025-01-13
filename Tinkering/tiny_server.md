@@ -1,6 +1,4 @@
----
-title: Tiny Server
----
+
 
 Learn lots. Basically this is just a hobby. One of the fun things I like to research.
 

@@ -1,7 +1,3 @@
----
-date: "1154 12/01/2025"
----
-
 # Cicada notes
 
 a walkthrough for the box: [hackmd.io/@Abzee/Cicada](https://hackmd.io/@Abzee/Cicada)

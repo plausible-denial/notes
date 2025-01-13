@@ -1,6 +1,4 @@
----
-title: Macbook EFI Flashing
----
+
 
 some notes on progress towards flashing the firmware on the macs
 
@@ -21,6 +19,3 @@ on my macbook model A1502 (Late 2013 I think) it has an empty connector at the f
 the ram on this board is not removable. just notes.
 
 > this would be better off just paying the £220 for both the macbook and the imac to have the firmware flashed.
-
----
-

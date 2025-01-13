@@ -1,6 +1,4 @@
----
-title: Ollama WSL GPU
----
+
 
 Having recently upgraded to a laptop with a GPU, I want to run my typical setup of WSL and VScode with docker.
 

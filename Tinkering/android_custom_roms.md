@@ -1,6 +1,4 @@
----
-title: Android Open Source
----
+
 
 I like this, but it's really confusing and I don't really understand the android ecosystem. 
 
@@ -59,6 +57,4 @@ It would be nice to do this! I could build the source code.
 The struggle I am having is to target the hardware, I think i’d need to investigate how to set the build parameters so that it works with it.
 
 And also figure out how to ensure I could actually flash the phone itself.
-
----
 
