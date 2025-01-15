@@ -1,4 +1,8 @@
-# Localuser on windows 11
+---
+title: 'Localuser on windows 11'
+date: '2025-01-15'
+tags: 'windows 11, localuser, privacy'
+---
 
 # How to Enable a Local User Account When Installing Windows 11 as a Virtual Machine
 

@@ -1,4 +1,8 @@
-# Ansible
+---
+title: 'Ansible'
+date: '2025-01-15'
+tags: 'automation, configuration management, it, engineering'
+---
 
 **Exploring Ansible for Windows and Debian Hardening: An Initial Touchpoint**
 

@@ -1,4 +1,8 @@
-# What you see is what you get
+---
+title: 'What you see is what you get'
+date: '2025-01-15'
+tags: 'philosophy, analysis'
+---
 
 What you see is what you get editors have been around for a while. Remember Dreamweaver? There are plenty of good use cases for them.
 

@@ -1,4 +1,8 @@
-# Trading
+---
+title: 'Trading'
+date: '2025-01-15'
+tags: 'economy, analysis'
+---
 
 **Unraveling the Lessons from Past Trading Successes and Failures**
 

@@ -1,4 +1,8 @@
-# Observability
+---
+title: 'Observability'
+date: '2025-01-15'
+tags: 'analysis, research, engineering, economy'
+---
 
 **Understanding Observability in Cloud Deployment**
 

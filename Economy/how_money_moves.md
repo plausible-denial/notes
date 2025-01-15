@@ -1,4 +1,8 @@
-# How Money Moves
+---
+title: 'How Money Moves'
+date: '2025-01-15'
+tags: 'economy, analysis'
+---
 
 # Understanding the Flow of Money in the UK
 

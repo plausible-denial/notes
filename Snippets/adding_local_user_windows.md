@@ -1,4 +1,8 @@
-# Adding local user windows
+---
+title: 'Adding local user windows'
+date: '2025-01-15'
+tags: 'windows, user management, engineering'
+---
 
 ## How to Add a Local User in Windows 11 24H3
 

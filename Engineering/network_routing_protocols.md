@@ -1,4 +1,8 @@
-# Network Routing Protocols
+---
+title: 'Network Routing Protocols'
+date: '2025-01-15'
+tags: 'networking, engineering, tinkering'
+---
 
 **Exploring Modern Routing Protocols and Monitoring Tools in the Digital Age**
 

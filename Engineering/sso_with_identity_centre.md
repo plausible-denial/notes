@@ -1,4 +1,8 @@
-# SSO With Identity Centre
+---
+title: 'SSO With Identity Centre'
+date: '2025-01-15'
+tags: 'privacy, identity, security'
+---
 
 ### Streamlined Access: Embracing SSO With AWS Identity Center
 

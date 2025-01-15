@@ -1,4 +1,8 @@
-# Frequency Allocation
+---
+title: 'Frequency Allocation'
+date: '2025-01-15'
+tags: 'engineering, analysis, research'
+---
 
 **Navigating the Complex Web of Spectrum Regulations and Hidden Technologies**
 

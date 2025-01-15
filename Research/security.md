@@ -1,4 +1,8 @@
-# Security
+---
+title: 'Security'
+date: '2025-01-15'
+tags: 'privacy, hacking, research'
+---
 
 **When Systems Collapse: Unpacking Security Breakdowns**
 

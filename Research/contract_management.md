@@ -1,4 +1,8 @@
-# Contract Management
+---
+title: 'Contract Management'
+date: '2025-01-15'
+tags: 'economy, research'
+---
 
 **Mastering Contract Management: A Key to Business Success**
 

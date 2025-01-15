@@ -1,4 +1,8 @@
-# Service Providers
+---
+title: 'Service Providers'
+date: '2025-01-15'
+tags: 'economy, research, analysis'
+---
 
 **Understanding the Role of Service Providers in the Digital World**
 

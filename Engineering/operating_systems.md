@@ -1,4 +1,8 @@
-# Operating Systems
+---
+title: 'Operating Systems'
+date: '2025-01-15'
+tags: 'engineering, tinkering, research'
+---
 
 [Introduction to Operating Systems](https://www.youtube.com/watch?v=dOiA2nNJpc0)
 

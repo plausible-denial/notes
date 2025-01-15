@@ -1,4 +1,8 @@
-# Grey Reading
+---
+title: 'Grey Reading'
+date: '2025-01-15'
+tags: 'philosophy, research, analysis'
+---
 
 **Exploring the Depths of the Digital Underbelly: Grey Reading**
 

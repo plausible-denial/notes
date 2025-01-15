@@ -1,4 +1,8 @@
-# Managing Multiple Git Repositories
+---
+title: 'Managing Multiple Git Repositories'
+date: '2025-01-15'
+tags: 'engineering, tinkering, snippets'
+---
 
 I had several folders without initialized Git repositories that I needed to upload to GitHub. To automate this process, I used the following script to set up and push all the repositories to their remote origins.
 

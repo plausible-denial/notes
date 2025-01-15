@@ -1,4 +1,8 @@
-# TailScale PiHole and OpenSSL
+---
+title: 'TailScale PiHole and OpenSSL'
+date: '2025-01-15'
+tags: 'tinkering, privacy, engineering'
+---
 
 I added SSL to my pihole today.
 

@@ -1,4 +1,8 @@
-# CISSP
+---
+title: 'CISSP'
+date: '2025-01-15'
+tags: 'privacy, security, certification, analysis, research'
+---
 
 **Exploring the Value of the CISSP Certification for Aspiring Cybersecurity Professionals**
 

@@ -1,4 +1,8 @@
-# Authentication
+---
+title: 'Authentication'
+date: '2025-01-15'
+tags: 'privacy, security, technology'
+---
 
 **Understanding Authentication and Authorization: The Distinction and Its Everyday Relevance**
 

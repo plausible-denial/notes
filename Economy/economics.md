@@ -1,4 +1,8 @@
-# Economics
+---
+title: 'Economics'
+date: '2025-01-15'
+tags: 'economy'
+---
 
 **Unlocking the Mysteries of Economics: A Dive into Trading and Currency**
 

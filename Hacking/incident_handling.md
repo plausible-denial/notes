@@ -1,4 +1,8 @@
-# Incident Handling
+---
+title: 'Incident Handling'
+date: '2025-01-15'
+tags: 'security, privacy, analysis'
+---
 
 ### The Essential Role of Incident Handling in Cybersecurity
 

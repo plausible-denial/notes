@@ -1,4 +1,8 @@
-# Creating a Ghost CMS Site from markdown files
+---
+title: 'Creating a Ghost CMS Site from markdown files'
+date: '2025-01-15'
+tags: 'ghost cms, markdown, tinkering, snippets'
+---
 
 This script accepts a directory of markdown files and publishes them to a ghost cms instance.
 

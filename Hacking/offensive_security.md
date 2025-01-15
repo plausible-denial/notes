@@ -1,4 +1,8 @@
-# Offensive_Security
+---
+title: 'Offensive_Security'
+date: '2025-01-15'
+tags: 'hacking, security, privacy'
+---
 
 **Exploring the World of Offensive Security: The Art and Science of Red Teaming**
 

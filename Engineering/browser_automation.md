@@ -1,4 +1,8 @@
-# Browser automation
+---
+title: 'Browser automation'
+date: '2025-01-15'
+tags: 'automation, engineering, tinkering'
+---
 
 ### Navigating the World of Browser Automation: What Can It Do For You?
 

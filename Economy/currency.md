@@ -1,4 +1,8 @@
-# Currency
+---
+title: 'Currency'
+date: '2025-01-15'
+tags: 'economy, analysis'
+---
 
 **Understanding Currency: The Store of Current Value**
 

@@ -1,4 +1,8 @@
-# Identity Access Management
+---
+title: 'Identity Access Management'
+date: '2025-01-15'
+tags: 'privacy, security, identity management'
+---
 
 **Understanding Identity Access Management: Securing Business Assets in the Digital Age**
 

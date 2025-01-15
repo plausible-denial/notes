@@ -1,4 +1,8 @@
-# Managing Git Identity
+---
+title: 'Managing Git Identity'
+date: '2025-01-15'
+tags: 'privacy, git, identity management'
+---
 
 **Mastering Git: Managing Multiple SSH Keys with Ease**
 

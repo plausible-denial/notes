@@ -1,4 +1,8 @@
-# Cicada notes
+---
+title: 'Cicada notes'
+date: '2025-01-15'
+tags: 'analysis, research, privacy'
+---
 
 a walkthrough for the box: [hackmd.io/@Abzee/Cicada](https://hackmd.io/@Abzee/Cicada)
 

@@ -1,4 +1,8 @@
-# HEIC Conversion
+---
+title: 'HEIC Conversion'
+date: '2025-01-15'
+tags: 'image conversion, snippets, engineering'
+---
 
 # Mastering HEIC Conversion on Linux: A Quick Guide
 

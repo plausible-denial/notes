@@ -1,4 +1,8 @@
-# SAML
+---
+title: 'SAML'
+date: '2025-01-15'
+tags: 'security, authentication, identity management, privacy, research'
+---
 
 ## Understanding SAML: A Key Player in Secure Authentication
 

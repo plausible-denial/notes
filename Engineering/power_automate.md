@@ -1,4 +1,8 @@
-# Power Automate
+---
+title: 'Power Automate'
+date: '2025-01-15'
+tags: 'automation, business, efficiency, productivity, engineering, technology'
+---
 
 **Streamlining Note-Taking with Microsoft Power Automate: From Email to OneDrive**
 

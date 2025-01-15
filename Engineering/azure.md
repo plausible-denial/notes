@@ -1,4 +1,8 @@
-# Azure
+---
+title: 'Azure'
+date: '2025-01-15'
+tags: 'cloud computing, microsoft, technology, ai, engineering'
+---
 
 # Unlocking the Power of Azure: Free Services You Can Utilize Today
 

@@ -1,4 +1,8 @@
-# Fail2Ban
+---
+title: 'Fail2Ban'
+date: '2025-01-15'
+tags: 'security, hacking, privacy'
+---
 
 ### Protect Your Server: Exploring the Essentials of Fail2Ban
 

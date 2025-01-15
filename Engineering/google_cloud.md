@@ -1,4 +1,8 @@
-# Google cloud
+---
+title: 'Google cloud'
+date: '2025-01-15'
+tags: 'cloud computing, technology, ai, research, analysis'
+---
 
 **Unpacking Google Cloud's Identity and Access Management (IAM) System**
 

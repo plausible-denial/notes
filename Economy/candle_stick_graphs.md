@@ -1,4 +1,8 @@
-# Candle stick graphs
+---
+title: 'Candle stick graphs'
+date: '2025-01-15'
+tags: 'analysis, economy'
+---
 
 **Understanding Candlestick Graphs: A Visual Tool for Investors**
 

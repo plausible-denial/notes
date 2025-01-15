@@ -1,4 +1,8 @@
-# Yubikey GPG
+---
+title: 'Yubikey GPG'
+date: '2025-01-15'
+tags: 'privacy, security, encryption, hacking'
+---
 
 ### Exploring the Benefits of Using YubiKey for GPG
 

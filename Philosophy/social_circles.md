@@ -1,4 +1,8 @@
-# Social circles
+---
+title: 'Social circles'
+date: '2025-01-15'
+tags: 'analysis, research, philosophy'
+---
 
 **Understanding the Social Circles in Our Lives**
 

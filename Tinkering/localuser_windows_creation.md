@@ -1,4 +1,8 @@
-# Adding local user windows 11 24H3
+---
+title: 'Adding local user windows 11 24H3'
+date: '2025-01-15'
+tags: 'windows 11, local user, tinkering'
+---
 
 [Britec | youtube](https://youtu.be/Q3TnVAPPqac)
 [CyberCPU Tech | youtube](https://youtu.be/Mn9bhG4nWel)

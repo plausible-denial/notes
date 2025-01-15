@@ -1,4 +1,8 @@
-# Linux Hardening
+---
+title: 'Linux Hardening'
+date: '2025-01-15'
+tags: 'security, privacy, tinkering'
+---
 
 **Linux Hardening: Implementing ANSSI Security Recommendations for RHEL 7 and 8**
 

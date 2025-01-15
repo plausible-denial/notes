@@ -1,4 +1,8 @@
-# Boot Error
+---
+title: 'Boot Error'
+date: '2025-01-15'
+tags: 'tinkering, engineering'
+---
 
 **Understanding the Boot Error in Tails OS: A Simple Guide**
 

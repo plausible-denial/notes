@@ -1,4 +1,8 @@
-# Sorting
+---
+title: 'Sorting'
+date: '2025-01-15'
+tags: 'tinkering, analysis'
+---
 
 ### Understanding Sorting Algorithms: Logarithmic vs. Quadratic Complexities
 

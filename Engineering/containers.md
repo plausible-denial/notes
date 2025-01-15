@@ -1,4 +1,8 @@
-# Containers
+---
+title: 'Containers'
+date: '2025-01-15'
+tags: 'engineering, tinkering, technology'
+---
 
 # Exploring the Future of Development: Docker Containers Running from the Browser
 

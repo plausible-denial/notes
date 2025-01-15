@@ -1,4 +1,8 @@
-# Data Streams
+---
+title: 'Data Streams'
+date: '2025-01-15'
+tags: 'analysis, research'
+---
 
 **Exploring Real-Time Data Visualization through Wireless Connection Strength Monitoring**
 

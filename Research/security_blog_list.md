@@ -1,4 +1,8 @@
-# Security Blogs
+---
+title: 'Security Blogs'
+date: '2025-01-15'
+tags: 'privacy, hacking'
+---
 
 This page contains a comprehensive list of security blogs and resources. It includes blogs from individual experts, cybersecurity companies, and major tech organizations. Each entry provides a link to the blog and a brief description of the content covered, ranging from ethical hacking tutorials to the latest news and insights on cybersecurity.
 

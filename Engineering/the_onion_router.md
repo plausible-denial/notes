@@ -1,4 +1,8 @@
-# The Onion Router
+---
+title: 'The Onion Router'
+date: '2025-01-15'
+tags: 'privacy, hacking, research'
+---
 
 **The Hidden Layers: A Deep Dive into The Onion Router**
 

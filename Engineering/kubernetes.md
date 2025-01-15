@@ -1,4 +1,8 @@
-# Kubernetes
+---
+title: 'Kubernetes'
+date: '2025-01-15'
+tags: 'engineering, tinkering, research'
+---
 
 ### Exploring Kubernetes: The Powerhouse of Container Orchestration
 

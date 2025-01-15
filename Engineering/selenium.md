@@ -1,4 +1,8 @@
-# Selenium
+---
+title: 'Selenium'
+date: '2025-01-15'
+tags: 'tinkering, engineering, testing, automation'
+---
 
 **Selenium: The Digital Dancer Behind Your Browser's Magic**
 

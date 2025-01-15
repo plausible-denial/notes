@@ -1,4 +1,8 @@
-# Architectures
+---
+title: 'Architectures'
+date: '2025-01-15'
+tags: 'engineering, analysis'
+---
 
 # Understanding Modern System Architectures: A Dive into Service Mesh, Entity Interfaces, and More
 

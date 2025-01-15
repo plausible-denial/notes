@@ -1,4 +1,8 @@
-# KeePass URL Finder
+---
+title: 'KeePass URL Finder'
+date: '2025-01-15'
+tags: 'privacy, hacking, snippets'
+---
 
 This script was written to help me tidy up my keepass database.
 

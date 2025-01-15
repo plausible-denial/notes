@@ -1,4 +1,8 @@
-# Authentication Providers
+---
+title: 'Authentication Providers'
+date: '2025-01-15'
+tags: 'privacy, security, technology'
+---
 
 ### Navigating the World of Authentication Providers: Making the Right Choice for Your Business
 

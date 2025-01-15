@@ -1,4 +1,8 @@
-# Open Source Secrets
+---
+title: 'Open Source Secrets'
+date: '2025-01-15'
+tags: 'hacking, privacy, research'
+---
 
 **Unlocking Open Source Secrets: A Dive into Transparency and Investigative Resources**
 

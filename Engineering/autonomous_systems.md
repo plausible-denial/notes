@@ -1,4 +1,8 @@
-# Autonomous Systems
+---
+title: 'Autonomous Systems'
+date: '2025-01-15'
+tags: 'ai, engineering, research'
+---
 
 **Understanding Autonomous Systems: The Backbone of the Internet**
 

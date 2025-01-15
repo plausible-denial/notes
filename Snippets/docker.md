@@ -1,4 +1,8 @@
-# Docker
+---
+title: 'Docker'
+date: '2025-01-15'
+tags: 'engineering, tinkering, snippets'
+---
 
 # Docker System Services: Simplifying Complex Deployments
 

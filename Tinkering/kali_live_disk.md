@@ -1,4 +1,8 @@
-# Kali linux live
+---
+title: 'Kali linux live'
+date: '2025-01-15'
+tags: 'hacking, privacy, tinkering'
+---
 
 I wanted to inspect the disk that gets created when I flash the kali iso to a USB drive. 
 

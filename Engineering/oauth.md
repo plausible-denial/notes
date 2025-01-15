@@ -1,4 +1,8 @@
-# Oauth
+---
+title: 'Oauth'
+date: '2025-01-15'
+tags: 'privacy, security, authentication, authorization'
+---
 
 **Understanding OAuth: A Standard for Secure Authentication**
 

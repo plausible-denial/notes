@@ -1,4 +1,8 @@
-# Ansible first touch hardening
+---
+title: 'Ansible first touch hardening'
+date: '2025-01-15'
+tags: 'engineering, security, automation, tinkering'
+---
 
 I'm trying to determine my favourite first touch and hardening setup for windows and debian.
 

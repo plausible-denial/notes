@@ -1,4 +1,8 @@
-# Lokinet
+---
+title: 'Lokinet'
+date: '2025-01-15'
+tags: 'privacy, networking, decentralization'
+---
 
 ### Exploring LokiNet: A Hidden Network with a Blockchain Twist
 

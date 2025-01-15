@@ -1,4 +1,8 @@
-# SSO to AWS
+---
+title: 'SSO to AWS'
+date: '2025-01-15'
+tags: 'engineering, privacy'
+---
 
 ### Demystifying SSO to AWS: A Journey to Streamlined Cloud Management
 

@@ -1,4 +1,8 @@
-# Wireshark
+---
+title: 'Wireshark'
+date: '2025-01-15'
+tags: 'networking, hacking, analysis, privacy'
+---
 
 **Exploring the Power of Wireshark: The Ultimate Packet Analysis Tool**
 

@@ -1,4 +1,8 @@
-# Notion
+---
+title: 'Notion'
+date: '2025-01-15'
+tags: 'ai, tinkering'
+---
 
 ### The Notion of Better File Organization: A Feature Proposal
 

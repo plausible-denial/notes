@@ -1,4 +1,8 @@
-# Trading Signals
+---
+title: 'Trading Signals'
+date: '2025-01-15'
+tags: 'economy, analysis, research'
+---
 
 **Unraveling the Hype: Trading Signals and Emotional Investments**
 

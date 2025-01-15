@@ -1,4 +1,8 @@
-# No Code Low code
+---
+title: 'No Code Low code'
+date: '2025-01-15'
+tags: 'engineering, tinkering, ai'
+---
 
 ### No Code, Low Code: Revolutionizing Software Development
 

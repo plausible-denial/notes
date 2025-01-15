@@ -1,4 +1,8 @@
-# EvilNginx
+---
+title: 'EvilNginx'
+date: '2025-01-15'
+tags: 'hacking, privacy, engineering'
+---
 
 [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2)
 

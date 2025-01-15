@@ -1,4 +1,8 @@
-# Kali Live Disk
+---
+title: 'Kali Live Disk'
+date: '2025-01-15'
+tags: 'hacking, privacy, snippets'
+---
 
 # Exploring the Kali Live Disk: A Quick Walkthrough
 

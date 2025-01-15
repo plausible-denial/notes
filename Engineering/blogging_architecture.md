@@ -1,4 +1,8 @@
-# Blogging architecture
+---
+title: 'Blogging architecture'
+date: '2025-01-15'
+tags: 'architecture, blogging, research'
+---
 
 I want to create a blog.
 

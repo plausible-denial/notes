@@ -1,4 +1,8 @@
-# LoRa Meshes
+---
+title: 'LoRa Meshes'
+date: '2025-01-15'
+tags: 'engineering, tinkering'
+---
 
 **Exploring the World of LoRa Meshes: Connecting Devices Seamlessly**
 

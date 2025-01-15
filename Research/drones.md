@@ -1,4 +1,8 @@
-# Drones
+---
+title: 'Drones'
+date: '2025-01-15'
+tags: 'technology, engineering, research'
+---
 
 # Exploring the World of Drones: A Hobbyist's Perspective
 

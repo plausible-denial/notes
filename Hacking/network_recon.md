@@ -1,4 +1,8 @@
-# network Recon
+---
+title: 'network Recon'
+date: '2025-01-15'
+tags: 'networking, hacking, tinkering, privacy'
+---
 
 # Enhancing Network Security: A Comprehensive Guide to Network Reconnaissance Tools
 

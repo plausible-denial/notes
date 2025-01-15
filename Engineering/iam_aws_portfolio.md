@@ -1,4 +1,8 @@
-# IAM AWS Portfolio
+---
+title: 'IAM AWS Portfolio'
+date: '2025-01-15'
+tags: 'security, iam, aws, cloud computing, engineering'
+---
 
 ## Navigating AWS: Setting Up a Secure IAM User with Hardware Token Access
 

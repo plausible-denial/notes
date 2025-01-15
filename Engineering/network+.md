@@ -1,4 +1,8 @@
-# Network+
+---
+title: 'Network+'
+date: '2025-01-15'
+tags: 'networking, certification, research'
+---
 
 **Unlocking the CompTIA Network+ (N10-008): More Than Just an Exam**
 
