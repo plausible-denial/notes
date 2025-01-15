@@ -22,7 +22,7 @@ if [[ -z $OPEN_AI_KEY ]]; then
     exit 1
 fi
 
-ai_prompt="Create a series of topic tags from the following title, reply with only the comma separated tags in the format 'tag, tag, tag' no additional information or text, at least one of these tags must be used (Ai, Analysis, Economy, Engineering, Hacking, Philosophy, Research, Snippets, Tinkering). The title is: "$title
+ai_prompt="Create a series of topic tags from the following title, reply with only the comma separated tags in the format 'tag, tag, tag' no additional information or text, at least one of these tags must be used (Ai, Analysis, Economy, Engineering, Hacking, Philosophy, Research, Snippets, Tinkering, Privacy). The title is: "$title
 response=$(curl https://api.openai.com/v1/chat/completions \
 -H "Content-Type: application/json" \
 -H "Authorization: Bearer $OPEN_AI_KEY" \

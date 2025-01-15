@@ -1,4 +1,8 @@
-# Artificial Data Stream
+---
+title: 'Artificial Data Stream'
+date: '2025-01-15'
+tags: 'ai, privacy'
+---
 
 ### Exploring the Ethical Implications of Data-Driven Artificial Intelligence
 
